@@ -1,0 +1,22 @@
+{
+  "name": "rainbow-week",
+  "version": "0.1.0",
+  "description": "One muted colour per weekday for Claude's accent, following rainbow order, in four palettes: Morandi, Monet, Vermeer and Song porcelain.",
+  "author": {
+    "name": "IVLIU",
+    "url": "https://github.com/IVLIU"
+  },
+  "homepage": "https://github.com/IVLIU/rainbow-week",
+  "repository": "https://github.com/IVLIU/rainbow-week",
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "keywords": [
+    "mod",
+    "theme",
+    "colour",
+    "color",
+    "rainbow",
+    "morandi",
+    "appearance"
+  ]
+}

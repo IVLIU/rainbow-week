@@ -1,0 +1,14 @@
+{
+  "name": "rainbow-week",
+  "owner": {
+    "name": "IVLIU"
+  },
+  "description": "A Claude Code mod that paints Claude's accent in one muted colour per weekday.",
+  "plugins": [
+    {
+      "name": "rainbow-week",
+      "source": "./",
+      "description": "One muted colour per weekday for Claude's accent, following rainbow order, in four palettes: Morandi, Monet, Vermeer and Song porcelain."
+    }
+  ]
+}
